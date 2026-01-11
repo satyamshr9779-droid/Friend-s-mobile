@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Friend's Mobile Centre",
+  "description": "A premium marketplace for high-quality second-hand mobile phones and accessories, featuring 3D animations and AI-powered photo editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
